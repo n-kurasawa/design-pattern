@@ -1,0 +1,5 @@
+#written by FilePopertise
+#Thu Aug 01 00:56:37 JST 2013
+day=21
+year=2004
+month=4
